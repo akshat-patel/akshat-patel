@@ -1,7 +1,7 @@
 ### Hi, I'm Akshat. ✌🏽
 
 
-#### I'm a web developer/cognitive science student in CA.
+#### I'm a web developer, UX Designer, and cognitive science student in CA.
 
 - 🔭 I’m currently studying at **UC Davis**
 - 🌱 I’m currently learning **Django**, **Bootstrap**, **JavaScript**, and **HTML/CSS**
